@@ -37,6 +37,31 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 16| 12/7-12/9 | 42 | Min and max distributions; transformations of two variables; the bivariate normal; course wrap-up & final exam review | 3.9, 5.10 | 7.5, 8.1-8.2, 8.6 | Last day of classes Wed 12/9 |
 |Finals| Mon 12/14 | - | **Final Exam** (cumulative) | - | - | 12:30-2:30p |
 
+## Course Learning Outcomes
+
+By the end of this course, students will be able to:
+- Convert descriptions of real-world situations with uncertainty into mathematical models satisfying the axioms of probability.
+- Understand conditional probability, independence, and Bayes' Rule from the perspective of updating information, and perform computations.
+- Work with discrete and continuous random variables via probability mass and density functions and cumulative distribution functions.
+- Understand the motivations for and uses of the named distributions (Bernoulli, binomial, geometric, Poisson, hypergeometric, uniform, exponential, gamma, chi-squared, normal), and perform computations.
+- Describe distributions via expectation, variance, higher moments, moment generating functions, and quantiles, and appreciate the importance of linearity of expectation.
+- Define and work with joint distributions; understand conditional and marginal distributions, conditional expectation, covariance, and correlation.
+- Distinguish among modes of convergence, and understand and implement the Weak Law of Large Numbers and the Central Limit Theorem.
+- Derive the distribution of transformations of one or more random variables, including sums, minima, and maxima.
+
+## Course Content
+
+- Sets, Axioms of Probability, and Counting Methods
+- Conditional Probability, Bayes' Rule, and Independence
+- Random Variables: Distribution Functions, Densities, and Mass Functions
+- Expectation, Variance, Moment Generating Functions, and Probability Inequalities
+- Named Distributions (Binomial, Geometric, Poisson, Gamma, Normal, Chi-Squared, ...)
+- Joint, Marginal, and Conditional Distributions
+- Covariance, Correlation, the Bivariate Normal, and Independence of Random Variables
+- Sums and Linear Combinations of Random Variables
+- Modes of Convergence, the Weak Law of Large Numbers, and the Central Limit Theorem
+- Transformations of Random Variables
+
 ## Course Tenets:
 
 When in doubt, rely on the following:
@@ -47,4 +72,39 @@ When in doubt, rely on the following:
 - Use common sense whenever possible.
 
 ## Course Website
-The class will be using Canvas & Github to distribute all resources. See the course syllabus on Canvas for policies on homework, exams, participation, and grading.
+The class will be using Canvas & Github to distribute all resources. The full syllabus is posted on Canvas; the most important policies are summarized below.
+
+## Grading
+
+Your grade in this course will be computed according to the following weights:
+
+**Homework: 20%**
+
+- There will be regular problem sets, due at the beginning of class. Due dates will be announced in class and posted on Canvas.
+- Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student's homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
+- _No late homework will be accepted._
+
+**Midterm Exams: 30% (15% each)**
+
+- Two midterm exams, tentatively scheduled for **Monday 10/5** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
+- No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
+
+**Final Exam: 30%**
+
+- A **cumulative final exam** on **Monday, December 14, 12:30-2:30p**.
+
+**In-Class Participation: 20%**
+
+- Every 4 weeks you will receive an assessment of your engagement and participation in class, scored on a 0-5 rubric. Full marks reflect consistent attendance, participating in class activities, offering questions and answers during lecture and at the board, attending office hours, and working with classmates outside of class.
+
+**Regrade Policy**
+
+You have **7 days** after a graded assignment is returned to contest a grade. After this time, the item may not be considered. If the 7-day period extends beyond the final exam date, the grade must be contested before the final exam.
+
+**Course Grade Cutoffs**
+
+| A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 97+ | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 67+ | 63+ | 60+ | <60 |
+
+*Grading scheme and cutoffs are approximate. The instructor reserves the right to adjust the grading scheme and to raise or lower any grade cutoffs; final decisions will not be made until all assignments have been turned in and graded.*
