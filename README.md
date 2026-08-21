@@ -6,7 +6,7 @@
 
 **Class Time**: MWF 11:45a-12:50p in LM-244A
 
-**Office Hours**: Mon & Wed 2:30-3:30p in the Hive (Harney Engineering area)
+**Office Hours**: Mon 2:30-3:30p in the Hive (Harney Engineering area); Tue 2:30-3:30p on Zoom (link on Canvas)
 
 **Text**:
 Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the primary text and are self-contained. Two optional supplements are keyed to the schedule below:
