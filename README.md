@@ -25,8 +25,8 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 4| 9/14-9/18 | 8-10 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 |  |
 |Week 5| 9/21-9/25 | 11-13 | Continuous random variables; expectation; functions of a random variable and variance | 3.2-3.3, 3.8, 4.1-4.3 | 3.7, 4.1-4.2, 4.5-4.6, 5.1 |  |
 |Week 6| 9/28-10/2 | 14-16 | Transformations of a random variable; moment generating functions and probability inequalities; median, quantiles, and the mode | 3.3, 3.8, 4.4, 4.5, 6.2 | 6.1, 6.4-6.5, 8.1, 10.1 |  |
-|Week 7| 10/5-10/9 | 17-18 | Bernoulli and binomial distributions; the geometric distribution | 5.2, 5.5 | 3.3, 4.3 | **Midterm Exam 1: Mon 10/5** |
-|Week 8| 10/12-10/16 | 19-21 | Poisson and hypergeometric distributions; gamma and exponential distributions; the normal distribution | 5.3-5.4, 5.6-5.7 | 3.4, 4.7, 5.4-5.5, 8.4 |  |
+|Week 7| 10/5-10/9 | 17-19 | Bernoulli and binomial distributions; the geometric distribution; Poisson and hypergeometric distributions | 5.2-5.5 | 3.3, 3.4, 4.3 |  |
+|Week 8| 10/12-10/16 | 20-21 | Gamma and exponential distributions; the normal distribution | 5.6-5.7 | 4.7, 5.4-5.5, 8.4 | **Midterm Exam 1: Mon 10/12** |
 |Week 9| 10/19-10/23 | 22-23 | Chi-squared, uniform, and joint distributions; joint densities | 3.2, 3.4, 8.2 | 5.2, 7.1, 10.4 | No class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | 24-27 | Joint density examples and marginal densities; conditional densities; conditional expectation and conditional variance; law of total variance | 3.5-3.6, 4.7 | 7.1, 9.1-9.3, 9.5 |  |
 |Week 11| 11/2-11/6 | 28-31 | Joint expectations and the joint m.g.f.; covariance and correlation | 4.2, 4.4, 4.6 | 6.4, 7.2-7.3 |  |
@@ -86,7 +86,7 @@ Your grade in this course will be computed according to the following weights:
 
 **Midterm Exams: 30% (15% each)**
 
-- Two midterm exams, tentatively scheduled for **Monday 10/5** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
+- Two midterm exams, tentatively scheduled for **Monday 10/12** and **Monday 11/9**. Coverage of each midterm will be announced in class in advance of the exam.
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the earliest possible date.
 
 **Final Exam: 30%**
