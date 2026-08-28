@@ -27,11 +27,11 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 6| 9/28-10/2 | 14-16 | Transformations of a random variable; moment generating functions and probability inequalities; median, quantiles, and the mode | 3.3, 3.8, 4.4, 4.5, 6.2 | 6.1, 6.4-6.5, 8.1, 10.1 |  |
 |Week 7| 10/5-10/9 | 17-19 | Bernoulli and binomial distributions; the geometric distribution; Poisson and hypergeometric distributions | 5.2-5.5 | 3.3, 3.4, 4.3 | **HW2 due Fri 10/9** |
 |Week 8| 10/12-10/16 | 20-21 | Gamma and exponential distributions; the normal distribution | 5.6-5.7 | 4.7, 5.4-5.5, 8.4 | **Midterm Exam 1: Mon 10/12**; **HW3 due Fri 10/16** |
-|Week 9| 10/19-10/23 | 22-23 | Chi-squared, uniform, and joint distributions; joint densities | 3.2, 3.4, 8.2 | 5.2, 7.1, 10.4 | **HW4 due Fri 10/23**; no class Mon 10/19 (Fall Break) |
-|Week 10| 10/26-10/30 | 24-27 | Joint density examples and marginal densities; conditional densities; conditional expectation and conditional variance; law of total variance | 3.5-3.6, 4.7 | 7.1, 9.1-9.3, 9.5 |  |
-|Week 11| 11/2-11/6 | 28-31 | Joint expectations and the joint m.g.f.; covariance and correlation | 4.2, 4.4, 4.6 | 6.4, 7.2-7.3 | **HW5 due Fri 11/6** |
-|Week 12| 11/9-11/13 | 32-33 | Independence of random variables; expectation and variance of sums | 3.5, 4.2-4.3, 4.6 | 3.8, 4.2, 7.1, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW6 due Fri 11/13** |
-|Week 13| 11/16-11/20 | 34-36 | Sums of independent random variables; sums of normals; linear combinations of normals and squared normals | 3.9, 5.6, 8.2 | 5.4, 6.6, 8.2, 10.4 |  |
+|Week 9| 10/19-10/23 | 22-23 | Chi-squared, uniform, and joint distributions; joint densities | 3.2, 3.4, 8.2 | 5.2, 7.1, 10.4 | No class Mon 10/19 (Fall Break) |
+|Week 10| 10/26-10/30 | 24-27 | Joint density examples and marginal densities; conditional densities; conditional expectation and conditional variance; law of total variance | 3.5-3.6, 4.7 | 7.1, 9.1-9.3, 9.5 | **HW4 due Fri 10/30** |
+|Week 11| 11/2-11/6 | 28-31 | Joint expectations and the joint m.g.f.; covariance and correlation | 4.2, 4.4, 4.6 | 6.4, 7.2-7.3 |  |
+|Week 12| 11/9-11/13 | 32-33 | Independence of random variables; expectation and variance of sums | 3.5, 4.2-4.3, 4.6 | 3.8, 4.2, 7.1, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
+|Week 13| 11/16-11/20 | 34-36 | Sums of independent random variables; sums of normals; linear combinations of normals and squared normals | 3.9, 5.6, 8.2 | 5.4, 6.6, 8.2, 10.4 | **HW6 due Fri 11/20** |
 |Week 14| 11/23-11/25 | 37-38 | The sample variance and convergence in distribution; convergence in probability | 6.2-6.3, 8.2 | 6.3, 10.2-10.3 | No class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | 39-41 | The Weak Law of Large Numbers; the Central Limit Theorem; continuity correction and proof of the CLT | 6.2-6.4 | 10.2-10.3 |  |
 |Week 16| 12/7-12/9 | 42 | Min and max distributions; transformations of two variables; the bivariate normal; course wrap-up & final exam review | 3.9, 5.10 | 7.5, 8.1-8.2, 8.6 | **HW7 due Wed 12/9**, the last day of classes |
