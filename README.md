@@ -19,7 +19,7 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 *subject to change; any changes are announced in class and posted on Canvas
 |Week | Dates | Lec | Topics | [DS] | [BH] | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---: |
-|Week 1| 8/26-8/28 | 1-2 | Probability, sets, and subsets; fundamental results of probability | 1.3-1.5 | 1.2, 1.6 |  |
+|Week 1| 8/26-8/28 | 1-2 | Probability, sets, and subsets; fundamental results of sets and events | 1.3-1.5 | 1.2, 1.6 |  |
 |Week 2| 8/31-9/4 | 3-5 | Set operations and disjointification; De Morgan's laws and monotone sequences of events; counting methods | 1.4-1.5, 1.7-1.10 | 1.4, 1.6 |  |
 |Week 3| 9/9-9/11 | 6-7 | Definitions and axioms of probability; conditional probability and Bayes' rule | 1.5-1.6, 2.1, 2.3 | 1.3, 1.6, 2.2-2.3 | No class Mon 9/7 (Labor Day) |
 |Week 4| 9/14-9/18 | 8-10 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 | **HW1 due Fri 9/18** |
