@@ -22,7 +22,7 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 1| 8/26-8/28 | Probability, sets, and subsets; fundamental results of sets and events; set operations and disjointification | 1.3-1.5 | 1.2, 1.6 |  |
 |Week 2| 8/31-9/4 | De Morgan's laws and monotone sequences of events; definitions and axioms of probability; counting methods | 1.4-1.6, 1.7-1.10 | 1.3, 1.4, 1.6 |  |
 |Week 3| 9/7-9/11 | Conditional probability and Bayes' rule | 2.1, 2.3 | 2.2-2.3 | No class Mon 9/7 (Labor Day) |
-|Week 4| 9/14-9/18 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 | **HW1 due Fri 9/18** |
+|Week 4| 9/14-9/18 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 | **HW1 due Fri 9/18**; remote class Fri 9/18 |
 |Week 5| 9/21-9/25 | Continuous random variables; expectation; functions of a random variable and variance | 3.2-3.3, 3.8, 4.1-4.3 | 3.7, 4.1-4.2, 4.5-4.6, 5.1 |  |
 |Week 6| 9/28-10/2 | Transformations of a random variable; moment generating functions and probability inequalities; median, quantiles, and the mode | 3.3, 3.8, 4.4, 4.5, 6.2 | 6.1, 6.4-6.5, 8.1, 10.1 |  |
 |Week 7| 10/5-10/9 | Bernoulli and binomial distributions; the geometric distribution; Poisson and hypergeometric distributions | 5.2-5.5 | 3.3, 3.4, 4.3 | **HW2 due Fri 10/9** |
