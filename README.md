@@ -43,7 +43,7 @@ By the end of this course, students will be able to:
 - Convert descriptions of real-world situations with uncertainty into mathematical models satisfying the axioms of probability.
 - Understand conditional probability, independence, and Bayes' Rule from the perspective of updating information, and perform computations.
 - Work with discrete and continuous random variables via probability mass and density functions and cumulative distribution functions.
-- Understand the motivations for and uses of the named distributions (Bernoulli, binomial, geometric, Poisson, hypergeometric, uniform, exponential, gamma, chi-squared, normal), and perform computations.
+- Understand the motivations for and uses of the named distributions (Bernoulli, binomial, geometric, Poisson, uniform, exponential, gamma, chi-squared, normal), and perform computations.
 - Describe distributions via expectation, variance, higher moments, moment generating functions, and quantiles, and appreciate the importance of linearity of expectation.
 - Define and work with joint distributions; understand conditional and marginal distributions, conditional expectation, covariance, and correlation.
 - Distinguish among modes of convergence, and understand and implement the Weak Law of Large Numbers and the Central Limit Theorem.
