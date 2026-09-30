@@ -24,15 +24,15 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 3| 9/7-9/11 | Conditional probability and Bayes' rule | 2.1, 2.3 | 2.2-2.3 | No class Mon 9/7 (Labor Day) |
 |Week 4| 9/14-9/18 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 | **HW1 due Fri 9/18**; remote class Fri 9/18 |
 |Week 5| 9/21-9/25 | Continuous random variables; expectation; functions of a random variable and variance | 3.2-3.3, 3.8, 4.1-4.3 | 3.7, 4.1-4.2, 4.5-4.6, 5.1 |  |
-|Week 6| 9/28-10/2 | Transformations of a random variable; moment generating functions and probability inequalities; median, quantiles, and the mode | 3.3, 3.8, 4.4, 4.5, 6.2 | 6.1, 6.4-6.5, 8.1, 10.1 |  |
-|Week 7| 10/5-10/9 | Bernoulli and binomial distributions; the geometric distribution; Poisson and hypergeometric distributions | 5.2-5.5 | 3.3, 3.4, 4.3 | **HW2 due Fri 10/9** |
-|Week 8| 10/12-10/16 | Gamma and exponential distributions; the normal distribution | 5.6-5.7 | 4.7, 5.4-5.5, 8.4 | **Midterm Exam 1: Mon 10/12**; **HW3 due Fri 10/16** |
-|Week 9| 10/19-10/23 | Chi-squared, uniform, and joint distributions; joint densities | 3.2, 3.4, 8.2 | 5.2, 7.1, 10.4 | No class Mon 10/19 (Fall Break) |
-|Week 10| 10/26-10/30 | Joint density examples and marginal densities; conditional densities; conditional expectation and conditional variance; law of total variance | 3.5-3.6, 4.7 | 7.1, 9.1-9.3, 9.5 | **HW4 due Fri 10/30** |
-|Week 11| 11/2-11/6 | Joint expectations and the joint m.g.f.; covariance and correlation | 4.2, 4.4, 4.6 | 6.4, 7.2-7.3 |  |
-|Week 12| 11/9-11/13 | Independence of random variables; expectation and variance of sums | 3.5, 4.2-4.3, 4.6 | 3.8, 4.2, 7.1, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
-|Week 13| 11/16-11/20 | Sums of independent random variables; sums of normals; linear combinations of normals and squared normals | 3.9, 5.6, 8.2 | 5.4, 6.6, 8.2, 10.4 | **HW6 due Fri 11/20** |
-|Week 14| 11/23-11/25 | The sample variance and convergence in distribution; convergence in probability | 6.2-6.3, 8.2 | 6.3, 10.2-10.3 | No class Fri 11/27 (Thanksgiving) |
+|Week 6| 9/28-10/2 | Probability inequalities; Bernoulli, binomial, geometric, and Poisson distributions; gamma and exponential distributions | 4.5, 5.2-5.4, 5.6 | 4.3, 4.7, 5.4, 10.1 |  |
+|Week 7| 10/5-10/9 | The normal distribution; chi-squared and uniform distributions; transformations of a random variable (the c.d.f. method and inverse-c.d.f. simulation) | 3.2, 3.3, 3.8, 5.7 | 5.2, 5.5, 8.1, 8.4 | **HW2 due Fri 10/9** |
+|Week 8| 10/12-10/16 | Joint distributions; joint densities | 3.4 | 7.1 | **Midterm Exam 1: Mon 10/12**; **HW3 due Fri 10/16** |
+|Week 9| 10/19-10/23 | Joint density examples and marginal densities; conditional densities | 3.4-3.6 | 7.1, 9.1 | No class Mon 10/19 (Fall Break) |
+|Week 10| 10/26-10/30 | Conditional expectation and conditional variance; law of total variance; joint expectations and the joint m.g.f. | 4.4, 4.7 | 6.4, 9.2-9.3, 9.5 | **HW4 due Fri 10/30** |
+|Week 11| 11/2-11/6 | Covariance and correlation; independence of random variables | 3.5, 4.2, 4.6 | 3.8, 7.1-7.3 |  |
+|Week 12| 11/9-11/13 | Expectation and variance of sums; sums of independent random variables | 3.9, 4.2-4.3 | 4.2, 5.4, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
+|Week 13| 11/16-11/20 | Sums of normals; linear combinations of normals and squared normals; the sample variance | 5.6, 8.2 | 6.6, 8.2, 10.4 | **HW6 due Fri 11/20** |
+|Week 14| 11/23-11/25 | Convergence in distribution; convergence in probability | 6.2-6.3 | 6.3, 10.2-10.3 | No class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | The Weak Law of Large Numbers; the Central Limit Theorem; continuity correction and proof of the CLT | 6.2-6.4 | 10.2-10.3 |  |
 |Week 16| 12/7-12/9 | Min and max distributions; transformations of two variables; the bivariate normal; course wrap-up & final exam review | 3.9, 5.10 | 7.5, 8.1-8.2, 8.6 | **HW7 due Wed 12/9**, the last day of classes |
 |Finals| Mon 12/14 | **Final Exam** (cumulative) | - | - | 12:30-2:30p |
