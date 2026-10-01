@@ -24,8 +24,8 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 3| 9/7-9/11 | Conditional probability and Bayes' rule | 2.1, 2.3 | 2.2-2.3 | No class Mon 9/7 (Labor Day) |
 |Week 4| 9/14-9/18 | Independent events; random variables and distribution functions; discrete random variables | 2.2, 3.1, 3.3 | 2.5, 3.1-3.2, 3.6 | **HW1 due Fri 9/18**; remote class Fri 9/18 |
 |Week 5| 9/21-9/25 | Continuous random variables; expectation; functions of a random variable and variance | 3.2-3.3, 3.8, 4.1-4.3 | 3.7, 4.1-4.2, 4.5-4.6, 5.1 |  |
-|Week 6| 9/28-10/2 | Probability inequalities; Bernoulli, binomial, geometric, and Poisson distributions; gamma and exponential distributions | 4.5, 5.2-5.4, 5.6 | 4.3, 4.7, 5.4, 10.1 |  |
-|Week 7| 10/5-10/9 | The normal distribution; chi-squared and uniform distributions; transformations of a random variable (the c.d.f. method and inverse-c.d.f. simulation) | 3.2, 3.3, 3.8, 5.7 | 5.2, 5.5, 8.1, 8.4 | **HW2 due Fri 10/9** |
+|Week 6| 9/28-10/2 | Probability inequalities; Bernoulli, binomial, geometric, and Poisson distributions; the normal distribution | 4.5, 5.2-5.4, 5.6 | 4.3, 4.7, 5.4, 10.1 |  |
+|Week 7| 10/5-10/9 | Gamma and exponential distributions; chi-squared and uniform distributions; transformations of a random variable (the c.d.f. method and inverse-c.d.f. simulation) | 3.2, 3.3, 3.8, 5.7 | 5.2, 5.5, 8.1, 8.4 | **HW2 due Fri 10/9** |
 |Week 8| 10/12-10/16 | Joint distributions; joint densities | 3.4 | 7.1 | **Midterm Exam 1: Mon 10/12**; **HW3 due Fri 10/16** |
 |Week 9| 10/19-10/23 | Joint density examples and marginal densities; conditional densities | 3.4-3.6 | 7.1, 9.1 | No class Mon 10/19 (Fall Break) |
 |Week 10| 10/26-10/30 | Conditional expectation and conditional variance; law of total variance; joint expectations and the joint m.g.f. | 4.4, 4.7 | 6.4, 9.2-9.3, 9.5 | **HW4 due Fri 10/30** |
