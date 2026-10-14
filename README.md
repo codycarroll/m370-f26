@@ -32,9 +32,9 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums | 4.2, 4.6 | 4.2, 7.3 | **HW4 due Mon 11/2** |
 |Week 12| 11/9-11/13 | Sums of independent random variables and their m.g.f.s; sums of normals | 4.4, 5.6 | 6.6, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
 |Week 13| 11/16-11/20 | Linear combinations of normals; squared normals and the chi-squared distribution; the sample variance | 5.6, 8.2 | 6.6, 10.4 |  |
-|Week 14| 11/23-11/25 | Convergence in distribution; convergence in probability | 6.2-6.3 | 6.3, 10.2-10.3 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | The Weak Law of Large Numbers; the Central Limit Theorem; continuity correction and proof of the CLT | 6.2-6.4 | 10.2-10.3 |  |
-|Week 16| 12/7-12/9 | Transformations of one and two random variables (the c.d.f. method, inverse-c.d.f. simulation); min and max distributions; the bivariate normal; course wrap-up & final exam review | 3.8-3.9, 5.10 | 7.5, 8.1-8.2, 8.6 | **HW7 due Wed 12/9**, the last day of classes |
+|Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation; min and max distributions | 3.8-3.9 | 8.1, 8.6 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | Convergence in probability and the Weak Law of Large Numbers; convergence in distribution and the Central Limit Theorem; the continuity correction | 6.2-6.4 | 6.3, 10.2-10.3 |  |
+|Week 16| 12/7-12/9 | Proof of the CLT via m.g.f.s; transformations of two random variables and the bivariate normal (as time allows); course wrap-up & final exam review | 3.9, 5.10, 6.3 | 7.5, 8.2, 10.3 | **HW7 due Wed 12/9**, the last day of classes |
 |Finals| Mon 12/14 | **Final Exam** (cumulative) | - | - | 12:30-2:30p |
 
 ## Course Learning Outcomes
