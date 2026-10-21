@@ -27,7 +27,7 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 6| 9/28-10/2 | Probability inequalities; Bernoulli, binomial, geometric, and Poisson distributions; the normal distribution | 4.5, 5.2-5.4, 5.6 | 4.3, 4.7, 5.4, 10.1 |  |
 |Week 7| 10/5-10/9 | Normal examples; uniform, exponential, and gamma distributions; joint distributions: joint p.m.f.s, c.d.f.s, and densities, with region probabilities | 3.2, 3.4, 5.7 | 5.2, 5.5, 7.1, 8.4 | **HW2 due Fri 10/9** |
 |Week 8| 10/12-10/16 | Joint density examples; marginal distributions; independence of random variables | 3.4-3.5 | 7.1 | **Midterm Exam 1: Mon 10/12** |
-|Week 9| 10/19-10/23 | Conditional distributions and densities; conditional expectation | 3.6, 4.7 | 7.1, 9.1-9.2 | No class Mon 10/19 (Fall Break); **HW3 due Wed 10/21** |
+|Week 9| 10/19-10/23 | Conditional distributions and densities; conditional expectation | 3.6, 4.7 | 7.1, 9.1-9.2 | No class Mon 10/19 (Fall Break); **HW3 due Fri 10/23** |
 |Week 10| 10/26-10/30 | Conditional variance and the law of total variance; joint expectations and the joint m.g.f. | 4.4, 4.7 | 6.4, 7.2, 9.3, 9.5 |  |
 |Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums | 4.2, 4.6 | 4.2, 7.3 | **HW4 due Mon 11/2** |
 |Week 12| 11/9-11/13 | Sums of independent random variables and their m.g.f.s; sums of normals | 4.4, 5.6 | 6.6, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
