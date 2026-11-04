@@ -30,7 +30,7 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 9| 10/19-10/23 | Conditional distributions and densities; conditional expectation | 3.6, 4.7 | 7.1, 9.1-9.2 | No class Mon 10/19 (Fall Break); **HW3 due Fri 10/23** |
 |Week 10| 10/26-10/30 | Conditional variance and the law of total variance; joint expectations and the joint m.g.f. | 4.4, 4.7 | 6.4, 7.2, 9.3, 9.5 |  |
 |Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums | 4.2, 4.6 | 4.2, 7.3 | **HW4 due Mon 11/2** |
-|Week 12| 11/9-11/13 | Sums of independent random variables and their m.g.f.s; sums of normals | 4.4, 5.6 | 6.6, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
+|Week 12| 11/9-11/13 | Sums of normals; sums of independent random variables and their m.g.f.s | 4.4, 5.6 | 6.6, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
 |Week 13| 11/16-11/20 | Linear combinations of normals; squared normals and the chi-squared distribution; the sample variance | 5.6, 8.2 | 6.6, 10.4 |  |
 |Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation; min and max distributions | 3.8-3.9 | 8.1, 8.6 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Convergence in probability and the Weak Law of Large Numbers; convergence in distribution and the Central Limit Theorem; the continuity correction | 6.2-6.4 | 6.3, 10.2-10.3 |  |
