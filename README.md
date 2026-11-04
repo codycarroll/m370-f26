@@ -29,12 +29,12 @@ Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the 
 |Week 8| 10/12-10/16 | Joint density examples; marginal distributions; independence of random variables | 3.4-3.5 | 7.1 | **Midterm Exam 1: Mon 10/12** |
 |Week 9| 10/19-10/23 | Conditional distributions and densities; conditional expectation | 3.6, 4.7 | 7.1, 9.1-9.2 | No class Mon 10/19 (Fall Break); **HW3 due Fri 10/23** |
 |Week 10| 10/26-10/30 | Conditional variance and the law of total variance; joint expectations and the joint m.g.f. | 4.4, 4.7 | 6.4, 7.2, 9.3, 9.5 |  |
-|Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums; sums of normals | 4.2, 4.6, 5.6 | 4.2, 6.6, 7.3 | **HW4 due Tue 11/3** |
-|Week 12| 11/9-11/13 | Sums of independent random variables and their m.g.f.s | 4.4 | 6.6, 7.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
-|Week 13| 11/16-11/20 | Linear combinations of normals; squared normals and the chi-squared distribution; the sample variance | 5.6, 8.2 | 6.6, 10.4 |  |
-|Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation; min and max distributions | 3.8-3.9 | 8.1, 8.6 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
-|Week 15| 11/30-12/4 | Convergence in probability and the Weak Law of Large Numbers; convergence in distribution and the Central Limit Theorem | 6.2-6.4 | 6.3, 10.2-10.3 |  |
-|Week 16| 12/7-12/9 | Proof of the CLT via m.g.f.s; transformations of two random variables and the bivariate normal (as time allows); course wrap-up & final exam review | 3.9, 5.10, 6.3 | 7.5, 8.2, 10.3 | **HW7 due Wed 12/9**, the last day of classes |
+|Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums; sums of normals; sums of independent random variables and their m.g.f.s; the Central Limit Theorem | 4.2, 4.4, 4.6, 5.6, 6.3 | 4.2, 6.6, 7.3, 10.3 | **HW4 due Tue 11/3** |
+|Week 12| 11/9-11/13 | Linear combinations of normals; Central Limit Theorem examples; convergence in distribution and the proof of the CLT via m.g.f.s | 5.6, 6.3 | 6.6, 10.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
+|Week 13| 11/16-11/20 | Convergence in probability and the Weak Law of Large Numbers; the sample variance; squared normals and the chi-squared distribution | 6.2, 8.2 | 6.3, 10.2, 10.4 |  |
+|Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation | 3.8 | 8.1 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
+|Week 15| 11/30-12/4 | Min and max distributions; transformations of two random variables | 3.9 | 8.2, 8.6 |  |
+|Week 16| 12/7-12/9 | The bivariate normal (as time allows); course wrap-up & final exam review | 5.10 | 7.5 | **HW7 due Wed 12/9**, the last day of classes |
 |Finals| Mon 12/14 | **Final Exam** (cumulative) | - | - | 12:30-2:30p |
 
 ## Course Learning Outcomes
