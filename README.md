@@ -9,7 +9,7 @@
 **Office Hours**: Mon 2:30-3:30p in the Hive (Harney Engineering area); Tue 2:30-3:30p on Zoom (link on Canvas); Wed 4:30-5:30p in the Hive
 
 **Text**:
-Course lecture notes (*MATH 370 Lecture Notes*, distributed via Canvas) are the primary text and are self-contained. Two optional supplements are keyed to the schedule below:
+Course lecture notes ([*MATH 370 Lecture Notes*](M370-F26-Lecture-Notes.pdf), also on Canvas) are the primary text and are self-contained. The copy here omits a few images that appear in the Canvas copy; the numbering and content are otherwise the same. This repository's MIT license does not cover the notes, and the images in them keep the licenses listed on their Image credits page. Two optional supplements are keyed to the schedule below:
 
  **[DS]** Probability and Statistics (Fourth Edition). DeGroot & Schervish.
 
