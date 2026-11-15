@@ -32,7 +32,7 @@ Course lecture notes ([*MATH 370 Lecture Notes*](M370-F26-Lecture-Notes.pdf), al
 |Week 11| 11/2-11/6 | Covariance and correlation (with worked examples); expectation and variance of sums; sums of normals; sums of independent random variables and their m.g.f.s; the Central Limit Theorem | 4.2, 4.4, 4.6, 5.6, 6.3 | 4.2, 6.6, 7.3, 10.3 | **HW4 due Tue 11/3** |
 |Week 12| 11/9-11/13 | Linear combinations of normals; Central Limit Theorem examples; convergence in distribution and the proof of the CLT via m.g.f.s | 5.6, 6.3 | 6.6, 10.3 | **Midterm Exam 2: Mon 11/9**; **HW5 due Fri 11/13** |
 |Week 13| 11/16-11/20 | Convergence in probability and the Weak Law of Large Numbers; the sample variance; squared normals and the chi-squared distribution | 6.2, 8.2 | 6.3, 10.2, 10.4 |  |
-|Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation | 3.8 | 8.1 | **HW6 due Mon 11/23**; no class Fri 11/27 (Thanksgiving) |
+|Week 14| 11/23-11/25 | Transformations of a random variable: the c.d.f. method (squared normals revisited) and inverse-c.d.f. simulation | 3.8 | 8.1 | **HW6 due Mon 11/23**; remote class Mon 11/23 and Wed 11/25; no class Fri 11/27 (Thanksgiving) |
 |Week 15| 11/30-12/4 | Min and max distributions; transformations of two random variables | 3.9 | 8.2, 8.6 |  |
 |Week 16| 12/7-12/9 | The bivariate normal (as time allows); course wrap-up & final exam review | 5.10 | 7.5 | **HW7 due Wed 12/9**, the last day of classes |
 |Finals| Mon 12/14 | **Final Exam** (cumulative) | - | - | 12:30-2:30p |
